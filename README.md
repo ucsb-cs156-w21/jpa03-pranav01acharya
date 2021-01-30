@@ -13,8 +13,8 @@ On Heroku: https://jpa03-pranavacharya.herokuapp.com/
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-pranav01acharya
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-pranav01acharya/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-pranav01acharya)
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-pranav01acharya/branch/main/graph/badge.svg?token=B60CBB4WWH)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-pranav01acharya)
 
 ## Integrations
 

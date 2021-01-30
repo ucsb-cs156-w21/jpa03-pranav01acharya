@@ -1,4 +1,4 @@
-# STARTER-lab03
+# jpa03-pranav01acharya
 
 
 * TODO: Change the title of this README 
@@ -11,7 +11,7 @@
   a link to your repo, e.g. 
   https://github.com/ucsb-cs156-w21/jpa03-cgaucho
 
-Repo: https://ucsb-cs156-w21/STARTER-jpa03
+Repo: https://github.com/ucsb-cs156-w21/jpa03-pranav01acharya
 
 * TODO: Correct the links to app on Heroku below, 
   then delete this TODO.  Replace it with 
